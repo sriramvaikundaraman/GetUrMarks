@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="useremail@gmail.com"
+        android:layout_marginLeft="30dp"
+
+        android:id="@+id/e1"
+        android:textSize="25dp"
+        android:textColor="@color/purple"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp"
+        android:textColor="@color/green"
+        android:layout_marginLeft="30dp"
+
+        android:textSize="20dp"
+        android:id="@+id/s1"
+        android:text="subject 1 : 100"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="75dp"
+        android:textColor="@color/green"
+        android:layout_marginLeft="30dp"
+
+        android:textSize="20dp"
+        android:id="@+id/s2"
+        android:text="subject 1 : 100"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="105dp"
+        android:textColor="@color/green"
+        android:textSize="20dp"
+        android:id="@+id/s3"
+        android:layout_marginLeft="30dp"
+
+        android:text="subject 1 : 100"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="135dp"
+        android:layout_marginLeft="30dp"
+        android:textColor="@color/green"
+        android:textSize="20dp"
+        android:id="@+id/s4"
+        android:text="subject 1 : 100"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="165dp"
+        android:textColor="@color/green"
+        android:layout_marginLeft="30dp"
+        android:textSize="20dp"
+        android:id="@+id/s5"
+        android:text="subject 1 : 100"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="195dp"
+        android:textColor="@color/green"
+        android:textSize="20dp"
+        android:layout_marginLeft="30dp"
+        android:id="@+id/s6"
+        android:text="subject 1 : 100"
+        />
+
+
+</RelativeLayout>

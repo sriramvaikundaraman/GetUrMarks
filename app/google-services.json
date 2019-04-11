@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "788146003840",
+    "firebase_url": "https://geturmarks-43595.firebaseio.com",
+    "project_id": "geturmarks-43595",
+    "storage_bucket": "geturmarks-43595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788146003840:android:9042e74242f42085",
+        "android_client_info": {
+          "package_name": "com.example.geturmarks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788146003840-0v1g9jjgk9hs229fll9pto3dp5cvub57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geturmarks",
+            "certificate_hash": "1221597f5cac202858f0f20ac39cd06459b6c9ae"
+          }
+        },
+        {
+          "client_id": "788146003840-na3rnce6lasn2gtr2j6mupbqjomg8csd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Yh_GUX1_s8ZtU_RCtbuEjmXwkdsHYOM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788146003840-na3rnce6lasn2gtr2j6mupbqjomg8csd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GetUrMarks</string>
+
+    <string-array name="exam">
+        <item>ut1</item>
+        <item>ut2</item>
+        <item>ut3</item>
+        <item>model</item>
+
+    </string-array>
+    <string-array name="subject">
+        <item>cs6601</item>
+        <item>cs6602</item>
+        <item>cs6603</item>
+        <item>cs6604</item>
+        <item>cs6605</item>
+        <item>cs6606</item>
+
+    </string-array>
+    <string-array name="viewsubject">
+        <item>Allsubjects</item>
+        <item>cs6601</item>
+        <item>cs6602</item>
+        <item>cs6603</item>
+        <item>cs6604</item>
+        <item>cs6605</item>
+        <item>cs6606</item>
+
+    </string-array>
+
+</resources>

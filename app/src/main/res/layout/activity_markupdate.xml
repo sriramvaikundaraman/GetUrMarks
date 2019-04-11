@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".markupdate">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Update"
+        android:textSize="30dp"
+        android:inputType="number"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/green"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Exam"
+        android:textSize="20dp"
+        android:inputType="number"
+
+        android:id="@+id/exam"
+        android:textColor="@color/colorAccent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sub"
+        android:textSize="20dp"
+
+
+        android:textColor="@color/colorPrimaryDark"
+        android:text="Subject name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="160dp"
+        android:ems="8"
+        android:inputType="number"
+        android:hint="Roll number"
+        android:id="@+id/r1"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:id="@+id/e1"
+        android:hint="marks"
+        android:inputType="number"
+        android:layout_marginLeft="200dp"
+        android:ems="3"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:text="Submit"
+        android:id="@+id/b1"
+        android:layout_marginLeft="300dp"/>
+
+
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:ems="8"
+        android:inputType="number"
+        android:hint="Roll number"
+        android:id="@+id/r2"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:id="@+id/e2"
+        android:inputType="number"
+        android:hint="marks"
+        android:layout_marginLeft="200dp"
+        android:ems="3"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:text="Submit"
+        android:id="@+id/b2"
+        android:layout_marginLeft="300dp"/>
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="320dp"
+        android:ems="8"
+        android:inputType="number"
+        android:hint="Roll number"
+        android:id="@+id/r3"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="320dp"
+        android:inputType="number"
+        android:id="@+id/e3"
+        android:hint="marks"
+        android:layout_marginLeft="200dp"
+        android:ems="3"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="320dp"
+        android:text="Submit"
+        android:id="@+id/b3"
+        android:layout_marginLeft="300dp"/>
+
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:ems="8"
+        android:inputType="number"
+        android:hint="Roll number"
+        android:id="@+id/r4"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:id="@+id/e4"
+        android:inputType="number"
+        android:hint="marks"
+        android:layout_marginLeft="200dp"
+        android:ems="3"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:text="Submit"
+        android:id="@+id/b4"
+        android:layout_marginLeft="300dp"/>
+
+
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="480dp"
+        android:ems="8"
+        android:inputType="number"
+        android:hint="Roll number"
+        android:id="@+id/r5"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="480dp"
+        android:id="@+id/e5"
+        android:hint="marks"
+        android:inputType="number"
+        android:layout_marginLeft="200dp"
+        android:ems="3"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="480dp"
+        android:text="Submit"
+        android:id="@+id/b5"
+        android:layout_marginLeft="300dp"/>
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="560dp"
+        android:ems="8"
+        android:inputType="number"
+        android:hint="Roll number"
+        android:id="@+id/r6"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="560dp"
+        android:inputType="number"
+        android:id="@+id/e6"
+        android:hint="marks"
+        android:layout_marginLeft="200dp"
+        android:ems="3"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="560dp"
+        android:text="Submit"
+        android:id="@+id/b6"
+        android:layout_marginLeft="300dp"/>
+
+
+
+
+
+</RelativeLayout>
